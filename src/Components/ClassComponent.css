@@ -1,0 +1,55 @@
+/* body {
+  border: 5px solid blueviolet;
+} */
+#header {
+  display: flex;
+  text-align: center;
+  font-size: 1.5em;
+  position: sticky;
+  top: 0;
+  background-color: white;
+  padding: 0.5em;
+}
+#contentDiv {
+  margin: 3em;
+}
+#firstDiv {
+  width: 90%;
+}
+#secondDiv {
+  width: 10%;
+}
+#pics {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  justify-items: center;
+  margin: 3em 0.5em;
+}
+#imgDiv {
+  text-align: center;
+}
+img {
+  height: 60vh;
+}
+#desc {
+  font-size: 1.5em;
+}
+#aboutDiv {
+  text-align: center;
+  font-size: 1.5em;
+  padding: 2em 0em;
+}
+#aboutDesc1 {
+  text-align: center;
+  font-weight: bold;
+  padding: 0.5em 0em;
+}
+#aboutDesc2 {
+  text-align: center;
+  font-style: italic;
+  padding: 0.5em 0em;
+}
+#aboutDesc3 {
+  text-align: center;
+  padding: 0.5em 0em;
+}
