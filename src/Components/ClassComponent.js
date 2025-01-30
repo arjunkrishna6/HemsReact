@@ -25,6 +25,9 @@ class ClassComponent extends Component {
           <Link to="/register">
             <button>About</button>
           </Link>
+          <Link to="/register">
+            <button>About</button>
+          </Link>
           <div id="firstDiv">My Food</div>
           <div id="secondDiv">
             <a href="./Registration.html">
